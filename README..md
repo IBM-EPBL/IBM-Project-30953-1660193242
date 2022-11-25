@@ -2,8 +2,6 @@
 
 IBM-Project-30953-1660193242
 
-    Digital Naturalist - AI Enabled tool for Biodiversity Researchers Dataset Link - Rithick16
-
  Digital Naturalist - AI Enabled tool for Biodiversity Researchers
 
 
