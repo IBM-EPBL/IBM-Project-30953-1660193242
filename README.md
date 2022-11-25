@@ -15,7 +15,9 @@ When venturing into the woods, field naturalists usually rely on common approach
 
 Field naturalists can only use this web app from anywhere to identify the birds, flowers, mammals and other species they see on their hikes, canoe trips and other excursions.
 
-In this project, we are creating a web application which uses a deep learning model, trained on different species of birds, flowers and mammals (2 subclasses in each for a quick understanding)and get the prediction of the bird when an image is been given.
+In this project, we are creating a web application which uses a deep learning model, trained on different species of birds, flowers and mammals (2 subclasses in each for a quick understanding)and get the prediction of the bird when an image is been given. 
+
+Project demo link -- https://youtu.be/QJmom7mA2P8
 
 🧑🏻‍🦰 TEAM MEMBERS
 
